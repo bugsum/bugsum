@@ -1,15 +1,12 @@
-# bugsum
-
-```c
 /**
  * @file readme.c
  * @author Samarth Sharma (devinsane.79@gmail.com)
  * @brief Who is bugsum? answer below...
  * @version 0.1
  * @date 2022-09-10
- * 
+ *
  * @copyright Copyright (c) 2022
- * 
+ *
  */
 
 #include <stdio.h>
@@ -24,7 +21,12 @@ struct data
 
 int main()
 {
-      struct data about_me = {"Samarth Sharma", 18, "Python, JavaScript, Java, C, C#, C++, Kotlin, Go, MATLAB & PHP", "a Minecraft Hack Client made with FabricMC."};
+      struct data about_me = {
+          "Samarth Sharma",
+          18,
+          "Python,JavaScript, Java, C, C#, C++, Kotlin, Go, MATLAB & PHP",
+          "a Minecraft Hack Client made with FabricMC."
+      };
 
       printf("============================================================\n");
       printf("> Hi User,\n");
@@ -36,4 +38,3 @@ int main()
 
       return 0;
 }
-```
