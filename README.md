@@ -1,3 +1,6 @@
+# bugsum
+
+```c
 /**
  * @file readme.c
  * @author Samarth Sharma (devinsane.79@gmail.com)
@@ -38,3 +41,4 @@ int main()
 
       return 0;
 }
+```
