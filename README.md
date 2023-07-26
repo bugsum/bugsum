@@ -31,5 +31,6 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bugsum&theme=radical&hide_border=true&include_all_commits=true&count_private=false">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bugsum&theme=radical&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bugsum&theme=radical&hide_border=true&include_all_commits=true&count_private=false">
+
+# My Github statistics
