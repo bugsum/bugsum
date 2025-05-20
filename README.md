@@ -48,7 +48,9 @@ src="https://img.shields.io/twitter/follow/Samarth1098?logo=twitter&style=for-th
 
 <a href="http://www.github.com/bugsum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bugsum&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ougbdbbeztxg5wljvyye2zdmim&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ougbdbbeztxg5wljvyye2zdmim&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![discord](https://discord-readme-badge.vercel.app/api?id=949315754614992956)
 
 ### Support Me
 
